@@ -1,0 +1,8 @@
+streamlit
+requests
+pypdf
+tiktoken
+pydantic-settings
+google-genai
+protobuf
+chromadb
